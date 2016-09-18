@@ -1,0 +1,19 @@
+{
+  "name": "Alamofire-lean",
+  "version": "4.0.0",
+  "license": "MIT",
+  "summary": "Elegant HTTP Networking in Swift",
+  "homepage": "https://github.com/Alamofire/Alamofire",
+  "social_media_url": "http://twitter.com/AlamofireSF",
+  "authors": {
+    "Alamofire Software Foundation": "info@alamofire.org"
+  },
+  "source": {
+    "git": "https://github.com/killa123/Alamofire",
+    "tag": "4.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift"
+}
